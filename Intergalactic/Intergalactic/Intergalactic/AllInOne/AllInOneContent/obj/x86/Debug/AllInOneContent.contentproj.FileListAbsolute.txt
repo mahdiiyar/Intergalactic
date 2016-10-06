@@ -1,0 +1,2 @@
+G:\3Sem\OOGame\week8\AllInOne\AllInOne\AllInOneContent\obj\x86\Debug\AllInOneContent.contentprojResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\allinone\AllInOne\AllInOne\AllInOneContent\obj\x86\Debug\AllInOneContent.contentprojResolveAssemblyReference.cache

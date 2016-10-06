@@ -1,0 +1,5 @@
+C:\Users\Eric\Desktop\allinone\AllInOne\AllInOne\AllInOneContent\obj\x86\Debug\IntergalacticContent.contentprojResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\allinone\Intergalactic\AllInOne\AllInOneContent\obj\x86\Debug\IntergalacticContent.contentprojResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\Intergalactic\Intergalactic\AllInOne\AllInOneContent\obj\x86\Debug\IntergalacticContent.contentprojResolveAssemblyReference.cache
+F:\Intergalactic\Intergalactic\Intergalactic\AllInOne\AllInOneContent\obj\x86\Debug\IntergalacticContent.contentprojResolveAssemblyReference.cache
+E:\Intergalactic\Intergalactic\Intergalactic\AllInOne\AllInOneContent\obj\x86\Debug\IntergalacticContent.contentprojResolveAssemblyReference.cache
